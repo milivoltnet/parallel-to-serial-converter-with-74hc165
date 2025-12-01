@@ -19,4 +19,5 @@ We used a signal generator for the clock input to the circuit we built on the br
 You can find the short video of the application on our youtube channel.
 
 Other details: https://milivolt.news/post/parallel-to-serial-converter-with-74hc165-shift-register-application
+  
 Youtube      :https://youtu.be/KFk2akko7qg?si=ablBbIBpVcJkES8B
